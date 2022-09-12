@@ -5,6 +5,7 @@ img{
 }
 table{
     margin: auto;
+    color: grey;
 }
 h6{
     text-align: center;
@@ -12,6 +13,9 @@ h6{
 h1{
     text-align: center;
     font-size: 48px;
+}
+hr{
+    border-color: black;
 }
 .Pi-1{
     background-color:lime ;
